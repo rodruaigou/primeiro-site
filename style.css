@@ -5,6 +5,13 @@ body {color: beige;}
 
 *{font-family:Arial, Helvetica, sans-serif ;}
 
-a{color: rgb(255, 253, 120);}
+
 
 #numerojohn {font-family: Brush Script MT, Brush Script Std, cursive;}
+
+h1 {color: rgb(255, 215, 112);}
+h2{color: rgb(255, 215, 112);}
+
+#Direitos {font-style: italic;}
+
+#--titulo {font: bolder;}

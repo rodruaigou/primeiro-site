@@ -31,7 +31,9 @@ margin: 10px;
 }
 
 #--titulo {
-margin-left: 500px;
+text-align: center;
+background-color: rgb(51, 51, 51);
+padding: 20;
 
 }
 
@@ -43,7 +45,20 @@ margin-left: 500px;
     background-color: rgb(92, 75, 131);
     border: 3px solid #3b3245;
     border-radius: 15px;
-    padding: 3px;
+    padding: 3px;}
 
 
-}
+    #delphox {
+float: right;
+position: fixed;
+
+width: 100px;
+
+
+
+
+right: 0;
+
+    }
+
+
